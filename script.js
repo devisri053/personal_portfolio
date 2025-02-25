@@ -33,9 +33,9 @@ toggle_box.onclick = function(){
         circle.style.transform = "translateX(50px)";
         document.body.style.backgroundColor= "rgba(199, 126, 126, 0.89)";
 
-        
+        toggle_box.style.backgroundImage = " url('https://fixthephoto.com/images/content/moon-night-sky-png-free-81616514271.jpg')";
 
-        toggle_box.style.backgroundImage = " url('https://static.scientificamerican.com/dam/m/57fc603972fdb/original/GettyImages-2166462891_WEB.jpg?m=1732209326.208&w=900')";
+        
 
         toggle_box.style.boxShadow = "0px 0px 20px  rgb(99, 74, 74)";
 
