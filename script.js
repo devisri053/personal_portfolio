@@ -32,7 +32,15 @@ toggle_box.onclick = function(){
     if(checkbox.checked){
         circle.style.transform = "translateX(50px)";
         document.body.style.backgroundColor= "rgba(199, 126, 126, 0.89)";
+<<<<<<< HEAD
         toggle_box.style.backgroundImage = " url('')";
+=======
+
+        toggle_box.style.backgroundImage = " url('https://fixthephoto.com/images/content/moon-night-sky-png-free-81616514271.jpg')";
+
+        
+
+>>>>>>> 6a7f0b6e48faffff331c0e1ddfaa8e277145e3b9
         toggle_box.style.boxShadow = "0px 0px 20px  rgb(99, 74, 74)";
 
         circle.style.backgroundColor=" rgb(245, 173, 173)";
