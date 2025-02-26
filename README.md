@@ -1,7 +1,8 @@
 Personal Portfolio Website
+
 This project is a personal portfolio website designed to showcase skills, projects, and contact information. It features a dark/light mode toggle, smooth scrolling navigation, an interactive projects section, and a pop-up modal with confetti animation when the "Hire" button is clicked.
 
-viste site : https://devisri053.github.io/personal_portfolio/
+VisIt Site : https://devisri053.github.io/personal_portfolio/
 
 Key Features:
 
