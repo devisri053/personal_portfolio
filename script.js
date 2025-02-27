@@ -30,18 +30,10 @@ const body = document.body;
 toggle_box.onclick = function(){
     checkbox.checked =  ! checkbox.checked;
     if(checkbox.checked){
-        circle.style.transform = "translateX(50px)";
-        document.body.style.backgroundColor= "rgba(199, 126, 126, 0.89)";
-
-        toggle_box.style.backgroundImage = " url('')";
-
-
-        toggle_box.style.backgroundImage = " url('https://fixthephoto.com/images/content/moon-night-sky-png-free-81616514271.jpg')";
-
         
-
+        document.body.style.backgroundColor= "rgba(199, 126, 126, 0.89)";
+        toggle_box.style.backgroundImage = " url('https://fixthephoto.com/images/content/moon-night-sky-png-free-81616514271.jpg')";
         toggle_box.style.boxShadow = "0px 0px 20px  rgb(99, 74, 74)";
-
         circle.style.backgroundColor=" rgb(245, 173, 173)";
         circle.style.boxShadow = "5px 5px 10px  rgb(187, 109, 109) inset";
         document.body.style.color= "black";
@@ -49,7 +41,7 @@ toggle_box.onclick = function(){
         header.style.backgroundColor="rgb(126, 0, 59)";
     }
     else{
-        circle.style.transform = "translateX(0px)";
+       
         document.body.style.backgroundColor= "rgb(126, 0, 59)";
         toggle_box.style.backgroundImage = "url('https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=')";
         toggle_box.style.boxShadow = "0px 0px 20px  rgb(233, 171, 171)";
