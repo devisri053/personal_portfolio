@@ -248,8 +248,9 @@ nav li:hover {
     
 
 }
-button:focus {
+.btn:focus-within {
     outline: none;
+    box-shadow: none;
 }
 #me{
     height:200px;
