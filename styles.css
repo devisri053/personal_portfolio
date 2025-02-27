@@ -119,11 +119,11 @@ nav li:hover {
         flex-direction: row;
         overflowX: auto;
         white-space:nowrap;
-        padding: 10px;
+        padding: 12px;
     }
 
     nav ul li {
-        padding: 12px 10px;
+        padding: 12px 12px;
     }
 
     nav ul li a {
