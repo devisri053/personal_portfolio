@@ -127,7 +127,7 @@ nav li:hover {
     }
 
     nav ul li a {
-        font-size: 16px; /* Smaller font for mobile */
+        font-size: 14px; /* Smaller font for mobile */
     }
 }
 
@@ -248,7 +248,9 @@ nav li:hover {
     
 
 }
-
+button:focus {
+    outline: none;
+}
 #me{
     height:200px;
     width: 200px;
