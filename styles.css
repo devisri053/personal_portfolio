@@ -117,7 +117,7 @@ nav li:hover {
 
     nav ul {
         flex-direction: row;
-        overflowX:hidden;
+        overflowX: auto;
         white-space:nowrap;
         padding: 10px;
     }
