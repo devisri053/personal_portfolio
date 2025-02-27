@@ -362,7 +362,7 @@ footer{
     text-align: center;
 }
 #back-to-top{
-    margin-left: 90%;
+    margin-left: 85%;
     padding: 7px;
     font-size: 30px;
     position: fixed;
@@ -382,10 +382,10 @@ footer{
 @media (max-width:768px) {
     #back-to-top{
         margin-left: 85%;
-        padding: 3px;
-        font-size: 20px;
-        height:30px;
-        width:30px;
+        padding: 4px;
+        font-size: 25px;
+        height:40px;
+        width:40px;
     }
     
 }
